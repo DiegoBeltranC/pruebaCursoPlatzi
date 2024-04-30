@@ -1,1 +1,3 @@
 Hola este simplemente es un texto
+Este es una segunda linea añadida en mi terminal
+
